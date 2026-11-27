@@ -1,0 +1,1803 @@
+[
+  {
+    "OriginalAnswer": "001",
+    "SongTitle": "Ring09",
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "테스트",
+      "001"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\001.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": "1",
+    "OpeningOrEnding": null,
+    "HashString": "D0DE5D34EF3BB3A9639DEA06D2F72832",
+    "Identifier": "001, Ring09"
+  },
+  {
+    "OriginalAnswer": "002",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "002"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\002.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "A9C20A8316E3F7F36C18C0A059AE7CDC",
+    "Identifier": "002, "
+  },
+  {
+    "OriginalAnswer": "003",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "003"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\003.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "5C4B55046A9C895D7FEAD91038674D42",
+    "Identifier": "003, "
+  },
+  {
+    "OriginalAnswer": "004",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "004"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\004.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "F9C03B170A99A003EE6896911E380208",
+    "Identifier": "004, "
+  },
+  {
+    "OriginalAnswer": "005",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "005"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\005.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "4828DAD123ADD3A0D8A514E551832A8F",
+    "Identifier": "005, "
+  },
+  {
+    "OriginalAnswer": "006",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "006"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\006.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "6CF347A5897D0DAC352F25220F1813DB",
+    "Identifier": "006, "
+  },
+  {
+    "OriginalAnswer": "007",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "007"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\007.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "452DA848B43D3AFC9D7FFC06AFF88DD3",
+    "Identifier": "007, "
+  },
+  {
+    "OriginalAnswer": "008",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "008"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\008.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "3F3CB1F94B11D45B1B1F07A05985BB15",
+    "Identifier": "008, "
+  },
+  {
+    "OriginalAnswer": "009",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "009"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\009.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "D972D34256B897AA69745027C5BA597F",
+    "Identifier": "009, "
+  },
+  {
+    "OriginalAnswer": "010",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "010"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\010.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "BCFA346F0FF1DB5E7511D5758279BB3C",
+    "Identifier": "010, "
+  },
+  {
+    "OriginalAnswer": "011",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "011"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\011.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "9E71E678FD57591929F4998BBA649B7B",
+    "Identifier": "011, "
+  },
+  {
+    "OriginalAnswer": "012",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "012"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\012.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "EE91C728A26A4C330B6E94A78ADE58CE",
+    "Identifier": "012, "
+  },
+  {
+    "OriginalAnswer": "013",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "013"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\013.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "942E1A707A65A02D56BFC3FAD11E4E13",
+    "Identifier": "013, "
+  },
+  {
+    "OriginalAnswer": "014",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "014"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\014.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "F701BECEB60CE4A46A17BE773E65F3E9",
+    "Identifier": "014, "
+  },
+  {
+    "OriginalAnswer": "015",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "015"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\015.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "72EF55477984A0FC8DBE9AC1CC4A41B3",
+    "Identifier": "015, "
+  },
+  {
+    "OriginalAnswer": "016",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "016"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\016.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "54C635484D7763D608F58C92DCC80A0C",
+    "Identifier": "016, "
+  },
+  {
+    "OriginalAnswer": "017",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "017"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\017.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "647402995447F7C83307E9DC69D64687",
+    "Identifier": "017, "
+  },
+  {
+    "OriginalAnswer": "018",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "018"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\018.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "8CA65CF497AF14CD0E6D37A1B0130F84",
+    "Identifier": "018, "
+  },
+  {
+    "OriginalAnswer": "019",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "019"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\019.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "59E7FEED8D81C6A9982337D7C6A2FD28",
+    "Identifier": "019, "
+  },
+  {
+    "OriginalAnswer": "020",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "020"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\020.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "73ED47BD03EFA4A9BDAE914C5BD67009",
+    "Identifier": "020, "
+  },
+  {
+    "OriginalAnswer": "021",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "021"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\021.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "B512C4BADA6FE08F63A18492B296493E",
+    "Identifier": "021, "
+  },
+  {
+    "OriginalAnswer": "022",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "022"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\022.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "29A8E40B6BB6F8AF666D4F903FF50250",
+    "Identifier": "022, "
+  },
+  {
+    "OriginalAnswer": "023",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "023"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\023.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "B0A1FE5EC401DEE196FE0291A8D92032",
+    "Identifier": "023, "
+  },
+  {
+    "OriginalAnswer": "024",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "024"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\024.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "A57A9037382D0F16C1DC554D08EEA577",
+    "Identifier": "024, "
+  },
+  {
+    "OriginalAnswer": "025",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "025"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\025.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "C2B970BA2FB817FE40EFE0D7C3604833",
+    "Identifier": "025, "
+  },
+  {
+    "OriginalAnswer": "026",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "026"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\026.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "ED315931B1B5EC865D0394CB86F99155",
+    "Identifier": "026, "
+  },
+  {
+    "OriginalAnswer": "027",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "027"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\027.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "3E5486C78B33E6CB447AB92B76932AF9",
+    "Identifier": "027, "
+  },
+  {
+    "OriginalAnswer": "028",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "028"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\028.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "6DA47610FF6D41715AAEBFF6A83246FD",
+    "Identifier": "028, "
+  },
+  {
+    "OriginalAnswer": "029",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "029"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\029.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "060667AC249C5A481C5318AEF832B66F",
+    "Identifier": "029, "
+  },
+  {
+    "OriginalAnswer": "030",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "030"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\030.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "8DB061483FF16FBC177E4D6B116F29EE",
+    "Identifier": "030, "
+  },
+  {
+    "OriginalAnswer": "031",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "031"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\031.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "68BD68E796B296236CD1D3B4CAF1F18E",
+    "Identifier": "031, "
+  },
+  {
+    "OriginalAnswer": "032",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "032"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\032.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "408B31CDA15D5647F6BDFA69FA2C8227",
+    "Identifier": "032, "
+  },
+  {
+    "OriginalAnswer": "033",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "033"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\033.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "528B549027F6DE83C507D5E1749F2AD8",
+    "Identifier": "033, "
+  },
+  {
+    "OriginalAnswer": "034",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "034"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\034.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "01856D1967D14C9E57B62DE1CBFEC167",
+    "Identifier": "034, "
+  },
+  {
+    "OriginalAnswer": "035",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "035"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\035.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "8DFE690257A953AA1326604EB17DB8CB",
+    "Identifier": "035, "
+  },
+  {
+    "OriginalAnswer": "036",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "036"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\036.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "C9C00BDF7F70C9513990503C2B0D0FAE",
+    "Identifier": "036, "
+  },
+  {
+    "OriginalAnswer": "037",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "037"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\037.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "20980B45BE9E1ED13C9D70EECAC30862",
+    "Identifier": "037, "
+  },
+  {
+    "OriginalAnswer": "038",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "038"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\038.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "02B616F49245CA808D3C5FE3BFA8C0B1",
+    "Identifier": "038, "
+  },
+  {
+    "OriginalAnswer": "039",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "039"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\039.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "C5413A19050AE772C260D92A0E970912",
+    "Identifier": "039, "
+  },
+  {
+    "OriginalAnswer": "040",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "040"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\040.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "2715F8DE92138AC5A7819BC49889CF55",
+    "Identifier": "040, "
+  },
+  {
+    "OriginalAnswer": "041",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "041"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\041.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "80BE3B9517ECA92FBB49207D9F8B5572",
+    "Identifier": "041, "
+  },
+  {
+    "OriginalAnswer": "042",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "042"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\042.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "94D77FA5EF84D993B12D047BDB77D5E4",
+    "Identifier": "042, "
+  },
+  {
+    "OriginalAnswer": "043",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "043"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\043.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "699CEAD2403F9F009F0ACF0189FF852E",
+    "Identifier": "043, "
+  },
+  {
+    "OriginalAnswer": "044",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "044"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\044.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "B2EEFCF4F40C97D1365E0C70DFABE1F0",
+    "Identifier": "044, "
+  },
+  {
+    "OriginalAnswer": "045",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "045"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\045.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "9A808EA1557A283D9051F2C156A51AEA",
+    "Identifier": "045, "
+  },
+  {
+    "OriginalAnswer": "046",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "046"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\046.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "2CE532BD14C0F16A84D7F7F1500B5214",
+    "Identifier": "046, "
+  },
+  {
+    "OriginalAnswer": "047",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "047"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\047.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "DBEEEA7C10944EE6E488503A4A86D454",
+    "Identifier": "047, "
+  },
+  {
+    "OriginalAnswer": "048",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "048"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\048.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "9F91F9CABC2EF3A1884FAF41F2B38AAA",
+    "Identifier": "048, "
+  },
+  {
+    "OriginalAnswer": "049",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "049"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\049.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "5E7823522E75A77F6B147974CE037435",
+    "Identifier": "049, "
+  },
+  {
+    "OriginalAnswer": "050",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "050"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\050.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "8486FF811F212E5E30B82710ADA45B9D",
+    "Identifier": "050, "
+  },
+  {
+    "OriginalAnswer": "051",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "051"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\051.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "5CD901F9DEC10354591704C1C20A5E7D",
+    "Identifier": "051, "
+  },
+  {
+    "OriginalAnswer": "052",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "052"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\052.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "5DEF84C5C31B72AFE2D30C1F2C662780",
+    "Identifier": "052, "
+  },
+  {
+    "OriginalAnswer": "053",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "053"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\053.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "1F5698658064E8B83849824CE7BC8639",
+    "Identifier": "053, "
+  },
+  {
+    "OriginalAnswer": "054",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "054"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\054.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "928D0BE1EA1D7FFFC9D8DE715EFB6587",
+    "Identifier": "054, "
+  },
+  {
+    "OriginalAnswer": "055",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "055"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\055.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "47F0368AEAA7449CAC12FD25BB06C64D",
+    "Identifier": "055, "
+  },
+  {
+    "OriginalAnswer": "056",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "056"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\056.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "E10D477EDF2C33A2025D6155BAA2AC31",
+    "Identifier": "056, "
+  },
+  {
+    "OriginalAnswer": "057",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "057"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\057.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "D12E7DB28B4E382E28DB48E30DF005B4",
+    "Identifier": "057, "
+  },
+  {
+    "OriginalAnswer": "058",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "058"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\058.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "070EDDC5CD1F713353D4739CF013213E",
+    "Identifier": "058, "
+  },
+  {
+    "OriginalAnswer": "059",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "059"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\059.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "A3FFBACD80EF012EE6015C9F00606BD9",
+    "Identifier": "059, "
+  },
+  {
+    "OriginalAnswer": "060",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "060"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\060.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "1AB4C7539E2F80C36B7CF5FBD76FAE3A",
+    "Identifier": "060, "
+  },
+  {
+    "OriginalAnswer": "061",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "061"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\061.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "CFB7F088B35378B2A5FA33A55EADBBDB",
+    "Identifier": "061, "
+  },
+  {
+    "OriginalAnswer": "062",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "062"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\062.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "55FDD88B8DC02B567F7EFE590FE354E2",
+    "Identifier": "062, "
+  },
+  {
+    "OriginalAnswer": "063",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "063"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\063.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "E8F6E602EAB8E3A9A7DB8994AED85754",
+    "Identifier": "063, "
+  },
+  {
+    "OriginalAnswer": "064",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "064"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\064.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "F9C091C4E7BFA81438E287C2C6331C9D",
+    "Identifier": "064, "
+  },
+  {
+    "OriginalAnswer": "065",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "065"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\065.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "C44D08F4A120D2E0AF6F8B085F4B4E41",
+    "Identifier": "065, "
+  },
+  {
+    "OriginalAnswer": "066",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "066"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\066.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "833319C01E0A7B74BB35E6281D543D0A",
+    "Identifier": "066, "
+  },
+  {
+    "OriginalAnswer": "067",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "067"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\067.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "7B661D2AA3695EBFA0C63A26C48601E1",
+    "Identifier": "067, "
+  },
+  {
+    "OriginalAnswer": "068",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "068"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\068.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "6ED07B14B1AF6DE10424BCC71D1ABF6C",
+    "Identifier": "068, "
+  },
+  {
+    "OriginalAnswer": "069",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "069"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\069.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "13D9A3846B92818FA2375CC4B78A9D3F",
+    "Identifier": "069, "
+  },
+  {
+    "OriginalAnswer": "070",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "070"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\070.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "7DBA6929EF733ED53AAAFE2EC0552F06",
+    "Identifier": "070, "
+  },
+  {
+    "OriginalAnswer": "071",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "071"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\071.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "A614EB9737C268BA2F9AF3014733E667",
+    "Identifier": "071, "
+  },
+  {
+    "OriginalAnswer": "072",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "072"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\072.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "2969CAC2D2FDC7CFEDE46EE1F427B621",
+    "Identifier": "072, "
+  },
+  {
+    "OriginalAnswer": "073",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "073"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\073.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "BCAABE442A98ACAE84E298D31DC35A35",
+    "Identifier": "073, "
+  },
+  {
+    "OriginalAnswer": "074",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "074"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\074.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "76ADE933EA2988530E84AF789813EA24",
+    "Identifier": "074, "
+  },
+  {
+    "OriginalAnswer": "075",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "075"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\075.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "1CED620DDB74AA19E293377D5B2F5D97",
+    "Identifier": "075, "
+  },
+  {
+    "OriginalAnswer": "076",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "076"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\076.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "B88AFC5D26F868F7F5678721B646CA3A",
+    "Identifier": "076, "
+  },
+  {
+    "OriginalAnswer": "077",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "077"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\077.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "E60C9CC462F129E40838AC3DEF01BF66",
+    "Identifier": "077, "
+  },
+  {
+    "OriginalAnswer": "078",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "078"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\078.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "1D9C0ACFA2C69ED1C6731DFC4C2B8D51",
+    "Identifier": "078, "
+  },
+  {
+    "OriginalAnswer": "079",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "079"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\079.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "6D787DCE299929DEC96C8D589B2C7CEC",
+    "Identifier": "079, "
+  },
+  {
+    "OriginalAnswer": "080",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "080"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\080.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "3425754384D60A306AF1768FA9CA5B55",
+    "Identifier": "080, "
+  },
+  {
+    "OriginalAnswer": "081",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "081"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\081.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "9646818B6FF2EBB3CCF215910D696F2E",
+    "Identifier": "081, "
+  },
+  {
+    "OriginalAnswer": "082",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "082"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\082.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "5106DE4B651F28597E3EFEC3A7BCF719",
+    "Identifier": "082, "
+  },
+  {
+    "OriginalAnswer": "083",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "083"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\083.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "05D74BCD1C52A921608B1B38FAC17846",
+    "Identifier": "083, "
+  },
+  {
+    "OriginalAnswer": "084",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "084"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\084.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "06BC5CFBC7F7344B04AA3D1713837F48",
+    "Identifier": "084, "
+  },
+  {
+    "OriginalAnswer": "085",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "085"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\085.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "18500EFD67932CB78BA2222D40C948E4",
+    "Identifier": "085, "
+  },
+  {
+    "OriginalAnswer": "086",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "086"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\086.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "7C11757310F418018B266B708F047FD8",
+    "Identifier": "086, "
+  },
+  {
+    "OriginalAnswer": "087",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "087"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\087.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "057F7038DF79F2AE38FE6F567E999E75",
+    "Identifier": "087, "
+  },
+  {
+    "OriginalAnswer": "088",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "088"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\088.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "FC85038B8047E2863DCB742C7B8768BB",
+    "Identifier": "088, "
+  },
+  {
+    "OriginalAnswer": "089",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "089"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\089.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "EC40BB65DB2D6D9CB92578B1544D3132",
+    "Identifier": "089, "
+  },
+  {
+    "OriginalAnswer": "090",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "090"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\090.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "B60677755D28410C49C3343560138775",
+    "Identifier": "090, "
+  },
+  {
+    "OriginalAnswer": "091",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "091"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\091.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "4E6B753F50659C12E6BBAE2C27C47A1D",
+    "Identifier": "091, "
+  },
+  {
+    "OriginalAnswer": "092",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "092"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\092.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "4D7ADC9012AA40C65767679DAD3A780F",
+    "Identifier": "092, "
+  },
+  {
+    "OriginalAnswer": "093",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "093"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\093.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "8721714B4AED28EB4622C9B6CFCDC528",
+    "Identifier": "093, "
+  },
+  {
+    "OriginalAnswer": "094",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "094"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\094.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "22B23F6EFB5978E0C479A0285DA44561",
+    "Identifier": "094, "
+  },
+  {
+    "OriginalAnswer": "095",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "095"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\095.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "400E87234AD23420E35EBA7D2B337435",
+    "Identifier": "095, "
+  },
+  {
+    "OriginalAnswer": "096",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "096"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\096.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "518979ABA21A657BE22F16E3EE4874D0",
+    "Identifier": "096, "
+  },
+  {
+    "OriginalAnswer": "097",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "097"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\097.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "D198D96453CA94F4E5692F6ABCFD93BF",
+    "Identifier": "097, "
+  },
+  {
+    "OriginalAnswer": "098",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "098"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\098.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "4B865495181F110E895DAC2F2C480945",
+    "Identifier": "098, "
+  },
+  {
+    "OriginalAnswer": "099",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "099"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\099.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "0B4C445D0B797CF249A28E78CDE38812",
+    "Identifier": "099, "
+  },
+  {
+    "OriginalAnswer": "100",
+    "SongTitle": null,
+    "Hint": "d",
+    "Hint2": "",
+    "ChoseongHint": null,
+    "AnswerList": [
+      "100"
+    ],
+    "MusicLinkOrFilePath": "C:\\Users\\박재현\\Documents\\노래 맞히기 제작 파일\\일본어 문장 듣고 뜻 맞히기\\voice\\100.mp3",
+    "StartTime": "00:00:00",
+    "EndTime": "00:00:01",
+    "SegmentCount": 1,
+    "Category": null,
+    "OpeningOrEnding": null,
+    "HashString": "78B1B37B0D163B69CD9BB6EFB1FD167A",
+    "Identifier": "100, "
+  }
+]
