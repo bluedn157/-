@@ -6,7 +6,6 @@ import functions as fc;
 import build_settings.CategoryCount;
 import build_settings.CategoryNames;
 import build_settings.CategoryDescriptions;
-import build_settings.SetCount;
 
 const s = StringBuffer(1024);
 const opening		= PVariable();
@@ -135,11 +134,7 @@ function OpeningText(cp){
 				s.append("\x13\x19┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n");
 				s.append("\x13", PColor(sys.setUser), PName(sys.setUser),"\x04님이 기본설정을 진행합니다.\n");
 				s.append("\x13\x19설정\x04은 \x1E마우스 클릭\x04으로 진행할 수 있습니다.\n");
-				// 좌우 글자 수를 같게 해서 ◀ ▶가 화면 가운데를 기준으로 대칭이 되도록 합니다. (왼쪽 절반 클릭 = 이전, 오른쪽 절반 클릭 = 다음)
-				s.append("\x13\x04(클릭: 이전) \x1F◀ \x07");
-				if (ms.setNumber == 0) s.append("전체 세트");
-				else s.append(ms.setNumber, "세트");
-				s.append(" \x1F▶ \x04(클릭: 다음)\n");
+				s.append("\x13\n");   // 4줄: 예전에 세트 선택이 있던 자리. 난이도 줄 위치(클릭 좌표)를 그대로 두려고 빈 줄로 채웁니다.
 				s.append("\x13\x11난이도를 선택하세요.\n");
 				for (var i = 0; i < 2; i++) {
 					s.append("\x13");
@@ -214,20 +209,6 @@ function openingMouse1(cp){  //곡설정
 function openingMouse2(cp){  // 난이도 선택 및 설정 완료
 	fc.mouseTrack(cp);
 	const mmX, mmY = fc.mX[cp], fc.mY[cp];
-	// 4번째 줄(y = 4098 + (4 - 6) * 16 = 4066): 세트 선택. 왼쪽 절반은 이전, 오른쪽 절반은 다음입니다. (0번 = 전체 세트)
-	if (Deaths(cp, Exactly, 1, ms.MOUSE) && 3979 <= mmX && mmX <= 4223 && 4066 <= mmY && mmY <= 4077) {
-		if (mmX < 4101) {
-			if (ms.setNumber == 0) ms.setNumber = SetCount;
-			else ms.setNumber = ms.setNumber - 1;
-		}
-		else {
-			if (ms.setNumber == SetCount) ms.setNumber = 0;
-			else ms.setNumber = ms.setNumber + 1;
-		}
-		SetDeaths(Force1, SetTo, 2, ms.EFFECT);
-		foreach(p : EUDLoopPlayer('Human')){TextUpdate[p] = 1;}
-		return;
-	}
 	if (3979 <= mmX && mmX <= 4223) {
 		for (var i = 0; i < 2; i++) {
 			const rowTop = 4098 + i * 16;
